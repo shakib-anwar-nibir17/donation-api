@@ -9,7 +9,7 @@
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
       "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price": 199.0
+      "price": 199.00
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
       "description": "Access to clean water is crucial for the health and well-being of children around the world. This initiative aims to provide clean and safe drinking water to children in need, reducing the risk of waterborne diseases and improving overall health.",
-      "price": 239.0
+      "price": 239.00
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
       "description": "Everyone deserves access to nutritious and affordable food. This project strives to improve food security and ensure that quality meals are accessible to all, promoting better health and well-being in communities.",
-      "price": 450.0
+      "price": 450.00
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
       "description": "Donate your gently used clothing to help those in need. This clothing drive aims to provide warm clothing to individuals and families during the colder months, offering comfort and support to the community.",
-      "price": 320.0
+      "price": 320.00
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
       "description": "Cold weather can be harsh. Donate warm clothing to help those in need stay comfortable and protected during the winter months.",
-      "price": 359.0
+      "price": 359.00
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
       "description": "Nutrition is a fundamental human right. This initiative works to provide nutritious meals to individuals and families, promoting good health and well-being.",
-      "price": 429.0
+      "price": 429.00
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
       "description": "Access to essential healthcare items is vital for the well-being of individuals. This project provides healthcare essentials to those in need, improving overall health and hygiene.",
-      "price": 259.0
+      "price": 259.00
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
       "description": "Access to quality education resources can transform lives. This initiative provides educational materials and support to students in underserved communities, empowering them to succeed.",
-      "price": 189.0
+      "price": 189.00
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "card_bg_color": "#0052FF26",
       "text_button_bg_color": "#0052FF",
       "description": "Join our medical aid mission to provide essential healthcare services to undeserved communities. Your support can save lives.",
-      "price": 319.0
+      "price": 319.00
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "card_bg_color": "#FF444A26",
       "text_button_bg_color": "#FF444A",
       "description": "Support aspiring students through scholarships. Your contribution can help young talents access higher education and pursue their dreams.",
-      "price": 149.0
+      "price": 149.00
     },
     {
       "id": 11,
@@ -119,7 +119,7 @@
       "card_bg_color": "#79C23F26",
       "text_button_bg_color": "#79C23F",
       "description": "Help us collect warm clothing for the winter season. Your donation can make a significant difference in keeping individuals warm and comfortable.",
-      "price": 399.0
+      "price": 399.00
     },
     {
       "id": 12,
@@ -130,7 +130,7 @@
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
       "description": "Community food banks play a vital role in fighting hunger. Contribute to our food bank initiative to ensure no one goes hungry.",
-      "price": 289.0
+      "price": 289.00
     }
   ]
 }
