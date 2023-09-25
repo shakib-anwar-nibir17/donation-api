@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/Xj4jy9w/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 199.0
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/3vhMjRT/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "Access to clean water is crucial for the health and well-being of children around the world. This initiative aims to provide clean and safe drinking water to children in need, reducing the risk of waterborne diseases and improving overall health.",
+      "price": 239.0
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/PYsMr1M/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "text_button_bg_color": "#F87147",
+      "description": "Everyone deserves access to nutritious and affordable food. This project strives to improve food security and ensure that quality meals are accessible to all, promoting better health and well-being in communities.",
+      "price": 450.0
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/d6jRp8q/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Donate your gently used clothing to help those in need. This clothing drive aims to provide warm clothing to individuals and families during the colder months, offering comfort and support to the community.",
+      "price": 320.0
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/d6jRp8q/Clothing.png",
+      "title": "Warm Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Cold weather can be harsh. Donate warm clothing to help those in need stay comfortable and protected during the winter months.",
+      "price": 359.0
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/PYsMr1M/Food.png",
+      "title": "Nutrition for All",
+      "category": "Food",
+      "category_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "text_button_bg_color": "#F87147",
+      "description": "Nutrition is a fundamental human right. This initiative works to provide nutritious meals to individuals and families, promoting good health and well-being.",
+      "price": 429.0
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/3vhMjRT/Health.png",
+      "title": "Healthcare Essentials",
+      "category": "Health",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "Access to essential healthcare items is vital for the well-being of individuals. This project provides healthcare essentials to those in need, improving overall health and hygiene.",
+      "price": 259.0
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/Xj4jy9w/Education.png",
+      "title": "Quality Education Resources",
+      "category": "Education",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "Access to quality education resources can transform lives. This initiative provides educational materials and support to students in underserved communities, empowering them to succeed.",
+      "price": 189.0
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/3vhMjRT/Health.png",
+      "title": "Medical Aid Mission",
+      "category": "Health",
+      "category_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "text_button_bg_color": "#0052FF",
+      "description": "Join our medical aid mission to provide essential healthcare services to undeserved communities. Your support can save lives.",
+      "price": 319.0
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/Xj4jy9w/Education.png",
+      "title": "Scholarship Program",
+      "category": "Education",
+      "category_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "text_button_bg_color": "#FF444A",
+      "description": "Support aspiring students through scholarships. Your contribution can help young talents access higher education and pursue their dreams.",
+      "price": 149.0
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/d6jRp8q/Clothing.png",
+      "title": "Winter Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "text_button_bg_color": "#79C23F",
+      "description": "Help us collect warm clothing for the winter season. Your donation can make a significant difference in keeping individuals warm and comfortable.",
+      "price": 399.0
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/PYsMr1M/Food.png",
+      "title": "Community Food Banks",
+      "category": "Food",
+      "category_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "text_button_bg_color": "#F87147",
+      "description": "Community food banks play a vital role in fighting hunger. Contribute to our food bank initiative to ensure no one goes hungry.",
+      "price": 289.0
+    }
+  ]
+}
